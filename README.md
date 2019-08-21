@@ -28,7 +28,7 @@ Objectif:
   - démarre la stack docker
   - vérifier que la réponse HTTP de l'application retourne un code 200 avec un body "hello {prénom}."
 
-Une fois le test fini le candidat doit créer une PR dans le dépot Github avec en titre `test {nom du candidat} {prénom du candidat}`
+Une fois le test terminé, le candidat doit créer une PR dans le dépot Github avec en titre `test {nom du candidat} {prénom du candidat}`
 
 ## lien utiles
 
